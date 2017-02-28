@@ -3,7 +3,7 @@
 Plugin Name: RBM Features CPT
 Plugin URL: https://github.com/realbig/RBM-Features-CPT
 Description: Features CPT moved from CPT-onomies
-Version: 0.1.0
+Version: 0.1.1
 Text Domain: rbm-features-cpt
 Author: Eric Defore
 Author URL: http://realbigmarketing.com
