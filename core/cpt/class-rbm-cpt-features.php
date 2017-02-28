@@ -17,7 +17,7 @@ class RBM_CPT_Features extends RBM_CPT {
 	public $post_args = array(
 		'hierarchical' => false,
 		'supports'     => array( 'title', 'editor', 'author', 'excerpt' ),
-		'has_archive'  => false,
+		'has_archive'  => true,
 		'rewrite'      => array(
 			'slug'       => 'feature',
 			'with_front' => false,
